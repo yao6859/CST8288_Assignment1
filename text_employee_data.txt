@@ -1,0 +1,16 @@
+name=CharlieBrown
+email=charlie@gmail.com
+address=11 Majestic, Ottawa, ON, K1G1A5
+salary=80000.0
+numberOfServiceYear=5
+totalCompensation=90000.0
+bonus=10000.0,
+pension=800.0,
+
+name=SallyBrown
+email=sally@hotmail.com
+address=188 Baseline, Ottawa, ON, K4S7C3
+salary=50000.0
+numberOfServiceYear=2
+totalCompensation=50000.0
+renewalDate=Thu Jun 12 16:55:27 EDT 2025
